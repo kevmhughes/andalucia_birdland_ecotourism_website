@@ -5,7 +5,7 @@
 **Stack:** HTML, CSS, JavaScript, Mister Plan Integration
 
 **Description:**  
-I designed and developed Andalucía BirdLand, a fully responsive ecotourism website showcasing birdwatching photography hides and courses in Andalusia, Spain. The site features real-time booking and secure payment integration via Mister Plan. Optimized for SEO, accessibility, and fast performance, it delivers a seamless user experience across all devices—from desktops to smartphones.
+I designed and developed Andalucía BirdLand, a fully responsive ecotourism website showcasing nature photography hides and photography courses in Andalusia, Spain. The site features real-time booking and secure payment integration via Mister Plan. Optimized for SEO, accessibility, and fast performance, it delivers a seamless user experience across all devices—from desktops to smartphones.
 
 **Key Contributions:**  
 - **UI/UX Design:** Crafted clean, user-friendly, and visually appealing layouts tailored for all screen sizes.  
