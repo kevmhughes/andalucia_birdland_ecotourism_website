@@ -35,5 +35,8 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
 **Live Demo:**  
 Visit [andaluciabirdland.com](https://www.andaluciabirdland.com)
 
+![App Demo](./assets/demo.gif)
+
+
 **Source Code:**  
 Private GitHub repository — available upon request.
