@@ -32,10 +32,16 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
   <em>Mobile view</em><br/>
 </p>
 
+## Demo Video
+
+<p align="center">
+  <img src="./assets/demo.gif" alt="App demo video" width="350" />
+  <br />
+  <em>Interactive demo of Andalucía BirdLand app</em>
+</p>
+
 **Live Demo:**  
 Visit [andaluciabirdland.com](https://www.andaluciabirdland.com)
-
-![App Demo](./assets/demo.gif)
 
 
 **Source Code:**  
