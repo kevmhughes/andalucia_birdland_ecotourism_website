@@ -13,7 +13,7 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
 - **Booking Integration:** Integrated Mister Plan API for real-time booking and payment processing.  
 - **Performance & SEO:** Optimized load times, semantic HTML, and accessibility compliance for better reach and usability.
 
-**Screenshots:**  
+## Screenshots:
 
 <p align="center">
   <img src="./assets/laptop-view.png" alt="Desktop view" width="800" /><br/>
@@ -40,9 +40,9 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
   <em>Interactive demo of Andalucía BirdLand app</em>
 </p>
 
-**Live Demo:**  
+## Live Demo: 
 Visit [andaluciabirdland.com](https://www.andaluciabirdland.com)
 
 
-**Source Code:**  
+## Source Code:
 Private GitHub repository — available upon request.
