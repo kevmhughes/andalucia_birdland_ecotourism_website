@@ -32,7 +32,7 @@ I designed and developed [andaluciabirdland.com](https://www.andaluciabirdland.c
   <em>Mobile view</em><br/>
 </p>
 
-## Demo Video
+## Demo Video:
 
 <p align="center">
   <img src="./assets/demo.gif" alt="App demo video" width="350" />
