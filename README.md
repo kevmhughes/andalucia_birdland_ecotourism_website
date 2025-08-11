@@ -17,17 +17,17 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
 
 <p align="center">
   <img src="./assets/laptop-view.png" alt="Desktop view" width="800" /><br/>
-  <em>Desktop view</em>
+  <em>Desktop view</em><br/>
 </p>
 
 <p align="center">
   <img src="./assets/tablet-view.png" alt="Tablet view" width="600"/><br/>
-  <em>Tablet view</em>
+  <em>Tablet view</em><br/>
 </p>
 
 <p align="center">
   <img src="./assets/mobile-view.png" alt="Mobile view" width="350"/><br/>
-  <em>Mobile view</em>
+  <em>Mobile view</em><br/>
 </p>
 
 **Live Demo:**  
