@@ -17,7 +17,7 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
 *(Add screenshots showing desktop, tablet, and mobile views, plus booking flow)*
 
 **Live Demo:**  
-[Visit Andalucía BirdLand](https://www.andaluciabirdland.com)
+[Visit andalucíabirdLand.com](https://www.andaluciabirdland.com)
 
 **Source Code:**  
 Private GitHub repository — available upon request.
