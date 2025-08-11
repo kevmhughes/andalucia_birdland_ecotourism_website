@@ -14,7 +14,23 @@ I designed and developed Andalucía BirdLand, a fully responsive ecotourism webs
 - **Performance & SEO:** Optimized load times, semantic HTML, and accessibility compliance for better reach and usability.
 
 **Screenshots:**  
-*(Add screenshots showing desktop, tablet, and mobile views, plus booking flow)*
+
+<p align="center">
+  <img src="./assets/laptop-view.png" alt="Desktop view" width="800" /><br/>
+  <em>Desktop view</em><br/>
+</p>
+
+<p align="center">
+  <br/>
+  <img src="./assets/tablet-view.png" alt="Tablet view" width="600"/><br/>
+  <em>Tablet view</em><br/>
+</p>
+
+<p align="center">
+  <br/>
+  <img src="./assets/mobile-view.png" alt="Mobile view" width="350"/><br/>
+  <em>Mobile view</em><br/>
+</p>
 
 **Live Demo:**  
 Visit [andaluciabirdland.com](https://www.andaluciabirdland.com)
