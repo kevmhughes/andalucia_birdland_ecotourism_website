@@ -3,6 +3,7 @@
 **Type:** Website Design & Development  
 **Role:** Designer & Frontend Developer  
 **Stack:** HTML, CSS, JavaScript, Mister Plan Integration
+**Hosting:** Vercel
 
 **Description:**  
 I designed and developed [andaluciabirdland.com](https://www.andaluciabirdland.com), a fully responsive ecotourism website showcasing nature photography hides and photography courses in Andalusia, Spain. The site features real-time booking and secure payment integration via Mister Plan. Optimized for SEO, accessibility, and fast performance, it delivers a seamless user experience across all devices—from desktops to smartphones.
