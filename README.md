@@ -3,6 +3,7 @@
 **Type:** Website Design & Development  
 **Role:** Designer & Frontend Developer  
 **Stack:** HTML, CSS, JavaScript, Mister Plan Integration
+
 **Hosting:** Vercel
 
 **Description:**  
