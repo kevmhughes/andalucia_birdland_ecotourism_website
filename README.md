@@ -38,7 +38,7 @@ I designed and developed [andaluciabirdland.com](https://www.andaluciabirdland.c
 <p align="center">
   <img src="./assets/demo.gif" alt="App demo video" width="350" />
   <br />
-  <em>Interactive demo of andaluciabirdland.com</em>
+  <em>Demo of andaluciabirdland.com</em>
 </p>
 
 ## Live Demo: 
